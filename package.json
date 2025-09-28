@@ -1,0 +1,27 @@
+{
+  "name": "ivan-ai-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp AI Bot by Marvel Ivan Diego (Baileys + OpenRouter)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "ai",
+    "baileys",
+    "openrouter",
+    "ivan-ai"
+  ],
+  "author": "Marvel Ivan Diego",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "axios": "^1.7.7",
+    "chalk": "4.1.2",
+    "dotenv": "^16.4.5",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "pino": "^9.2.0"
+  }
+}
