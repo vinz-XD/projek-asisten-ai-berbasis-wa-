@@ -29,7 +29,7 @@ Proyek ini memanfaatkan **WhatsApp API** dan **model AI (NLP)** sehingga penggun
 ## 🚀 Instalasi
 ```bash
 # Clone repo
-git clone https://github.com/username/asisten-ai-wa.git
+git clone https://github.com/vinz-XD/projek-asisten-ai-berbasis-wa-.git
 cd asisten-ai-wa
 
 # Install dependencies
