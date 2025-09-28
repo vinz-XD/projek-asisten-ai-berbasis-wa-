@@ -40,3 +40,22 @@ cp .env.example .env
 
 # Jalankan bot
 npm start
+
+
+📌 Penggunaan
+
+Simpan nomor WhatsApp bot
+
+Kirim pesan (contoh: Halo, buatkan reminder jam 7 malam)
+
+Bot akan membalas otomatis dengan hasil AI
+
+🤝 Kontribusi
+
+Pull request sangat diterima.
+Untuk perubahan besar, silakan buka issue terlebih dahulu agar bisa dibahas bersama.
+
+📄 Lisensi
+
+Proyek ini menggunakan lisensi MIT.
+Silakan gunakan, modifikasi, dan kembangkan sesuai kebutuhan.
